@@ -1,0 +1,36 @@
+ECO - Cómo jugar e instalar
+============================
+
+PROBAR EN LA PC
+  Descarga Eco.html y ábrelo con doble clic en Chrome o Edge.
+  W A S D caminar · ratón mirar (haz clic en la pantalla primero)
+  Clic izquierdo o Espacio: ECO · Clic derecho o Q: lanzar piedra · Shift: correr
+
+INSTALAR EN EL CELULAR (igual que Derretidos)
+  1. En GitHub: "+" > "Nuevo repositorio" > nombre: ECO > Público > Crear.
+  2. "sube uno existente" y arrastra TODOS los archivos de esta carpeta.
+     "Confirmar cambios".
+  3. Ajustes > Páginas > Rama: main > Guardar. Espera 2 minutos.
+  4. En Chrome del celular abre:  https://TU-USUARIO.github.io/ECO/
+     Menú ⋮ > "Instalar aplicación". Funciona sin internet después.
+
+CÓMO SE JUEGA
+  - Estás a oscuras. Toca ECO: una onda de sonido revela la cueva por
+    unos segundos. Tus pasos también iluminan un poquito el piso.
+  - Junta los cristales dorados (brillan y cantan: síguelos aunque
+    estén detrás de una pared). Con todos, se abre la salida verde.
+  - Las criaturas son ciegas. Te encuentran por el RUIDO:
+      · cada ECO las atrae desde lejos,
+      · correr hace ruido, caminar despacio casi nada,
+      · si estás pegado a una, te siente igual.
+  - Las criaturas solo se ven cuando tu eco las toca (puntos rojos).
+    Siempre puedes oír sus clics: con audífonos sabes de qué lado vienen.
+  - PIEDRA: lánzala lejos y las criaturas irán a ver qué sonó.
+    Tienes 3 y recuperas una cada 14 segundos.
+  - Barra RUIDO (abajo a la izquierda): cuánto te están escuchando.
+
+CONTROLES
+  Celular: dedo izquierdo caminar, dedo derecho mirar,
+           botones ECO, PIEDRA y CORRER.
+  Mando PS4: stick izquierdo caminar · stick derecho mirar
+             ✕ o R2 eco · □ o R1 piedra · L2 correr · OPTIONS pausa
